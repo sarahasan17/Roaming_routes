@@ -11,3 +11,10 @@ Share Memories: Capture and share your travel moments directly from the app.
 Real Reviews: Read authentic user reviews to plan your activities.
 Weather Updates: Check the weather forecast before you go.
 Roaming Routes - Your passport to an enhanced travel experience!
+<img width="167" alt="image" src="https://github.com/sarahasan17/Roaming_routes/assets/103211125/1f929c12-23b1-4cab-8a7d-e5f2afd1577b">
+<img width="166" alt="image" src="https://github.com/sarahasan17/Roaming_routes/assets/103211125/62e3073d-ed28-4cf8-9017-78de49b32595">
+<img width="161" alt="image" src="https://github.com/sarahasan17/Roaming_routes/assets/103211125/f90bda22-338c-4921-ae5c-85ac45b943f2">
+<img width="182" alt="image" src="https://github.com/sarahasan17/Roaming_routes/assets/103211125/d3488030-2a2d-4934-b6fc-49c4ea79739f">
+
+
+
